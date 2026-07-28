@@ -1,0 +1,6 @@
+a5e1725e1f583e719c331c91e788be30f54388e6d4416c11e4915df6b0aa878a  Ordo-Hereticus-Archive-2.0.0-Source.zip
+74d509f0da3caf2746ef25b7a38169c809deaedbcbb81740411d173e0bbeba7f  Ordo-Hereticus-Archive-2.0.0-Windows-x64.zip
+3bbb459fcd593c968c46b1aa02546b1c3074fac3cd28b35683df18e25bb94bdf  Portable.parts/Ordo-Hereticus-Archive-2.0.0-Windows-x64.zip.001
+3e94dbc3f9816f9ba90a0459c27c01867071ee93aa614779b4cd1fec60f38abb  Portable.parts/Ordo-Hereticus-Archive-2.0.0-Windows-x64.zip.002
+e7c27f2ffa3851db9f035e379ff562f18b9df0b38923ae688250a0c2c6825c71  Portable.parts/Ordo-Hereticus-Archive-2.0.0-Windows-x64.zip.003
+21f93f00168472527486bceb829d0a38fa4a8f5c051b454073f28872ad29803d  Portable.parts/Ordo-Hereticus-Archive-2.0.0-Windows-x64.zip.004
